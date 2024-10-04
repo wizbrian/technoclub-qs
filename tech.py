@@ -8,7 +8,7 @@ penuhi permintaan guru tersebut.
 Contoh
 Input:
 ['T', 'E', 'C', 'H', 'N', 'O', 'C', 'L', 'U', 'B']
-
+ 
 Output:
 C C
 """

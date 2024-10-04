@@ -2,7 +2,7 @@
 Function yang tertinggal zaman
 
 Agus kebingungan melihat kode yang dibuatnya, hasil dari function pythagoras() selalu kosong, 
-bantu agus untuk memperbaiki kode yang dibuat.   
+bantu agus untuk memperbaiki kode yang dibuat.  
 
 """
 

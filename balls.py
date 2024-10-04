@@ -12,16 +12,9 @@ Input:
 Output:
 Total buah yang dikumpulkan selama seminggu adalah 280
 """
-# Mengambil input jumlah buah dari pengguna
 buah = []
-
-# Meminta input selama 7 hari
 for i in range(7):
     jumlah = int(input(f"Masukkan jumlah buah yang ditemukan pada hari ke-{i + 1}: "))
     buah.append(jumlah)
-
-# Menghitung total buah
 total_buah = sum(buah)
-
-# Menampilkan hasil
 print(f"Total buah yang dikumpulkan selama seminggu adalah {total_buah}")

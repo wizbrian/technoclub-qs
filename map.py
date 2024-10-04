@@ -4,7 +4,7 @@ Menyusun Peta Harta Karun
 Setelah berhasil membuka pintu gua, kamu menemukan petunjuk menuju harta karun. 
 Namun, peta harta karun tersebut terdiri dari beberapa angka yang perlu diurutkan agar bisa menunjukkan arah yang benar. 
 Penduduk Pulau Python meminta bantuanmu untuk mengurutkan daftar angka.
-
+ 
 Contoh
 Input:
 [4, 2, 1, 3, 5]

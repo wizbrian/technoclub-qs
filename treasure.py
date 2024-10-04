@@ -26,4 +26,5 @@ for i in arr:
         word = i
     print(i, count)
 
+
 print("Kata yang paling sering muncul adalah " + word)

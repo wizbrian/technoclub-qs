@@ -21,7 +21,7 @@ Asal planet: Jupiter
 
 Output:
 [
-    {'nama': 'Hanif', 'umur': 23, 'asal planet': 'Mars'},
+    {'nama': 'Hanif', 'umur': 23, 'asal planet': 'Mars'}, 
     {'nama': 'Rani', 'umur': 25, 'asal planet': 'Jupiter'}
 ]
 """
