@@ -1,1 +1,1 @@
-# technoclub-qs
+# technoclub-questions: tugas akhir
